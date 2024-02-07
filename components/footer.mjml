@@ -1,0 +1,74 @@
+<mj-raw>
+  <!-- Footer Section -->
+</mj-raw>
+<mj-wrapper background-color="#ffffff">
+  <mj-section>
+    <mj-column width="100%">
+      <mj-image src="/img/logo2.png" align="center" width="22px" alt="" />
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column width="33.33%">
+      <mj-text
+        font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+        color="#333333"
+        font-size="12px"
+        align="center"
+      >
+        <a style="text-decoration: none; color: #333333" href="">Sign In</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text align="center">
+        <a style="text-decoration: none; color: #333333" href="">Help Center</a>
+      </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-text align="center">
+        <a style="text-decoration: none; color: #333333" href="">Blog</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column width="25%">
+      <mj-image src="/img/facebook.png" alt="" align="center" width="32px" />
+    </mj-column>
+    <mj-column width="25%">
+      <mj-image src="/img/twitter.png" alt="" align="center" width="32px" />
+    </mj-column>
+    <mj-column width="25%">
+      <mj-image src="/img/youtube.png" alt="" align="center" width="32px" />
+    </mj-column>
+    <mj-column width="25%">
+      <mj-image src="/img/insta.png" alt="" align="center" width="32px" />
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column width="100%">
+      <mj-text
+        font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+        line-height="18px"
+        color="#333333"
+        font-size="12px"
+        align="center"
+      >
+        <p>
+          If you don't want to receive this type of email from
+          <mark style="background-color: #fde293">Hotjar</mark>, you can opt out
+          <a style="color: #333333" href="">here</a>.<br />
+          To be removed from all our marketing messages, unsubscribe
+          <a style="color: #333333" href="">here</a>.
+        </p>
+        <p>
+          <mark style="background-color: #fde293">Hotjar</mark> Ltd. Dragonara
+          Business Centre 5th Floor, Dragonara Road, Paceville St Julian's STJ
+          3141 Malta
+        </p>
+        <a style="color: #333333" href="">View online version</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
+<mj-raw>
+  <!-- Footer Section -->
+</mj-raw>

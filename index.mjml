@@ -1,0 +1,414 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-title>5 almost-instant ways to improve your website UX</mj-title>
+      <mj-preview>5 almost-instant ways to improve your website UX</mj-preview>
+      <mj-all
+        font-family="roboto,'helvetica neue',helvetica,arial,sans-serif"
+      />
+      <mj-style inline="inline">
+        td.lovetogrow{ padding-top: 0px !important;padding-right: 0px
+        !important;padding-bottom: 0px !important;padding-left: 0px !important;}
+      </mj-style>
+      <mj-style>
+        *{box-sizing:border-box;} body{ background-color: #ffffff;}
+      </mj-style>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Hotjar Logo Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="100%" padding="0">
+        <mj-image width="120px" src="/img/logo.png" alt="Hotjar logo" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Hotjar Logo Section -->
+      <!-- Love To Grow Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="100%" padding="0">
+        <mj-image css-class="lovetogrow" src="/img/lovetogrow.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Love To Grow Section -->
+      <!-- Newsletter intro Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 30px">
+      <mj-column width="100%" padding="0">
+        <mj-text
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+          padding="0"
+        >
+          <p style="margin-top: 0">Hey 👋,</p>
+          <p>
+            The thing about great user experience (UX) is that when it’s done
+            right, it’s practically invisible. 🔍 You may not realize when every
+            button is exactly where you’d expect it to be, every page is easy to
+            navigate, and all of the content and design is clear and
+            accessible—but <i>boy oh boy</i> do you realize when they’re not.
+          </p>
+          <p>
+            A seamless, delightful website experience can be the deciding factor
+            that gives you an edge, while poor UX—like broken buttons, unusable
+            sign-up forms, or links that go nowhere—can send prospects running
+            for the hills…and into the arms of a competitor.
+          </p>
+          <p>
+            In this month’s edition of Love to Grow, we share five
+            <strong
+              >practical, people-focused ways to improve your website UX</strong
+            >, so you can create better experiences—that help you drive business
+            growth.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Newsletter intro Section  -->
+      <!-- Virtual Event Section -->
+    </mj-raw>
+    <mj-section
+      background-url="https://ci4.googleusercontent.com/proxy/4r07VssYQlZ-XRQLN6jNc1Jr9EtseXW_C9EFfY3q0pQfBzgbekWZ7JSf2BGzuJONIeUJLUkdK_MojGi0jHMVbyzYEhO3yM8Nipj6Z6kMTC4dX_tsJB9RhRdKCaV-Pn2WY_0vT-T2-oh4hgb2BTOjm8h6hM6mLHV_kQ6Zgv3oRk2HnZadS3O89U76wqTo8kqI7O99tpH6Y7QcEqVI6y_2apdlc6XHKML0uqQ=s0-d-e1-ft#https://kceuil.stripocdn.email/content/guids/CABINET_77aa339f59e46475abae841a141b78686a85f24fc6677bf29fb323652f36b75b/images/lovetogrow1920x108032.jpg"
+    >
+      <mj-column width="90%">
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+        >
+          <h1 style="font-size: 18px">🤿 Before we dive in</h1>
+          <p>
+            Sign up for our <strong>free</strong> live event,
+            <a href=""
+              >SEO trends and triumphs: a look back at 2023 and what to expect
+              in 2024</a
+            >
+          </p>
+        </mj-text>
+        <mj-image src="/img/virtualevent.png" alt="" />
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+        >
+          <p>
+            Join industry-leading expert Lily Ray—on
+            <strong>Dec. 5, 2023</strong>, at 5 pm CET/ 11 am EST—to learn
+            forward-thinking SEO strategies that will help you optimize your
+            website for next year and beyond.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Virtual Event Section -->
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="90%">
+        <mj-divider border-width="1px" border-color="#cccccc" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Divider -->
+      <!-- Newsletter Section -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column width="90%">
+        <mj-text line-height="24px" color="#333333" font-size="16px">
+          <h1
+            style="margin:0; font-size: 24px; line-height:29px font-weight:bold;"
+          >
+            5 tried-and-tested ways to deliver delightful UX (and impress your
+            customers)
+          </h1>
+          <p>
+            Here are five ways to analyze, understand, and optimize your website
+            UX to create better user experiences.
+          </p>
+          <h1 style="font-size: 22px; line-height: 24px; font-weight: bold">
+            1. Learn what users <i>actually</i> do on your site
+          </h1>
+          <p>
+            The first step to improving your users’ experience on your site is
+            to understand how they currently experience it. After all,
+            <strong
+              >the best way to connect with your visitors is to empathize with
+              them</strong
+            >.
+          </p>
+          <p>
+            <a href="">Heatmaps</a> are visual representations of where users
+            scroll, click, tap, and engage—or don’t. (And they’re free forever
+            with <mark style="background-color: #fde293">Hotjar</mark>!) Use
+            them to quickly identify
+          </p>
+          <ul>
+            <li>👀 Which page elements capture user attention</li>
+            <li>⬇️ How far down your pages users scroll</li>
+            <li>😠 Areas of frustration</li>
+            <li>📱How mobile and desktop versions of your site compare</li>
+          </ul>
+          <p>
+            Then, turn those insights into action and implement data-driven UX
+            improvements that make a real impact.
+          </p>
+          <p>
+            Even better: combine heatmaps with other insight-providing
+            tools—like session recordings, feedback widgets, web analytics, and
+            A/B tests—to get even more in-depth knowledge of how and why site
+            visitors behave the way they do.
+          </p>
+          <h1 style="font-size: 22px; line-height: 24px; font-weight: bold">
+            2. Team up with other customer-facing teams to get the full story
+          </h1>
+          <p>
+            Each team has its own micro-goals, but every team shares the same
+            macro-goal:
+            <strong
+              >to create better experiences for your users so they’ll convert
+              and stick around</strong
+            >. So why not pool your resources to get a full 360-view of user
+            behavior?
+          </p>
+          <p>Depending on your company culture, try these strategies:</p>
+          <ul>
+            <li>
+              Host <a href="">Watch Parties</a> where teams come together to
+              review recordings of real user sessions related to a specific goal
+            </li>
+            <li>Sit in on existing research projects run by other teams</li>
+            <li>
+              Send regular updates about your customer learnings in a shared
+              Slack channel
+            </li>
+          </ul>
+          <p>
+            By sharing insights across all teams that collect customer
+            knowledge—like marketing, UX, sales, data, and customer
+            success—every team is empowered to make better decisions that
+            improve your user’s experience at each stage of their website
+            journey.
+          </p>
+          <p>
+            💡 Pro tip: Jennifer Dorman, Head of User Insights at Babbel, and
+            Paula Herrera, UX Research Team Lead at
+            <mark style="background-color: #fde293">Hotjar</mark>,
+            <a href="">sing the praises</a> of shared knowledge repositories,
+            like insight hubs on valuable topics that every team can access.
+          </p>
+        </mj-text>
+        <mj-image src="/img/virtualyoutube.png" alt="" />
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+        >
+          <h1 style="font-size: 22px; line-height: 24px; font-weight: bold">
+            3. Examine your failures (or even better: learn from ours)
+          </h1>
+          <p>
+            We’ve all been there. Even when improving the customer experience is
+            at the very heart of what you do—mistakes can happen.
+          </p>
+          <p>
+            Instead of trying to sweep them under the rug while whistling
+            nonchalantly and hoping nobody noticed anything,
+            <strong
+              >take a good look at your failures and examine what went
+              wrong</strong
+            >. Why didn’t your latest campaign, landing page, or feature launch
+            perform the way you’d hoped? And what can you do better next time?
+          </p>
+          <p>
+            💡 Want some inspiration?
+            <a href="">Here are seven UX fails we made so you don’t have to</a>
+            (and how we turned them into wins).
+          </p>
+          <h1 style="font-size: 22px; line-height: 24px; font-weight: bold">
+            4. Get more from your A/B tests
+          </h1>
+          <p>
+            A/B tests are a great way to get solid data about how different
+            website elements—like button placement, copy length, and customer
+            testimonials—affect user behavior…and conversions. But that data
+            only tells you which versions users preferred, not why they
+            preferred them.
+          </p>
+          <p>
+            To understand why your winning pages won, use product experience
+            insights tools like
+            <a href="">heatmaps and session recordings</a> to dig into user
+            behavior on each variant. By seeing exactly which parts of the page
+            your users liked (and didn’t), you can replicate your success for
+            future campaigns.
+          </p>
+          <h1 style="font-size: 22px; line-height: 24px; font-weight: bold">
+            5. Ask users what they want (what they really, really want)
+          </h1>
+          <p>
+            One of the best ways to improve people’s experiences on your website
+            is to use always-on surveys or feedback widgets to ask them, “How
+            can we improve our website?” and then implement their feedback.
+          </p>
+          <p>
+            <strong
+              >If you’re not surveying your users, you’re missing out on a
+              wealth of insights and opportunities for quick wins</strong
+            >. Obviously, we don’t recommend changing everything just because
+            one person said so, but if you see the same feedback responses again
+            and again, it’s probably a sign that you need to listen to the voice
+            of the customer.
+          </p>
+          <p>
+            💡Pro tip: to make it even easier and faster to get actionable
+            insights,
+            <a href="">leverage AI to create goal-oriented survey questions</a>,
+            so you can pinpoint exactly which UX improvements to make next.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Newsletter Section -->
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-divider border-width="1px" border-color="#cccccc" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Divider -->
+      <!-- Nutshell Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+        >
+          <h1 style="font-size: 24px">In a nutshell 🥜</h1>
+          <p>
+            Great UX sets the scene for everything else. An enjoyable,
+            easy-to-use website
+          </p>
+          <p>
+            🤩 Delights prospects and existing users alike <br />
+            🥰 Shows your users you value them and their time <br />
+            🤝 Reassures people that they can trust your company
+          </p>
+          <p>
+            But to create a website experience your users love—and the kind that
+            encourages them to convert—you need to understand their needs,
+            preferences, and expectations.
+          </p>
+          <p>
+            By empathizing with your users, analyzing their behavior, and really
+            listening to their feedback, you can
+            <strong
+              >deliver standout experiences that keep them coming back for
+              more</strong
+            >.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Nutshell Section -->
+      <!-- Meme Section -->
+    </mj-raw>
+    <mj-wrapper
+      background-url="https://ci4.googleusercontent.com/proxy/4r07VssYQlZ-XRQLN6jNc1Jr9EtseXW_C9EFfY3q0pQfBzgbekWZ7JSf2BGzuJONIeUJLUkdK_MojGi0jHMVbyzYEhO3yM8Nipj6Z6kMTC4dX_tsJB9RhRdKCaV-Pn2WY_0vT-T2-oh4hgb2BTOjm8h6hM6mLHV_kQ6Zgv3oRk2HnZadS3O89U76wqTo8kqI7O99tpH6Y7QcEqVI6y_2apdlc6XHKML0uqQ=s0-d-e1-ft#https://kceuil.stripocdn.email/content/guids/CABINET_77aa339f59e46475abae841a141b78686a85f24fc6677bf29fb323652f36b75b/images/lovetogrow1920x108032.jpg"
+    >
+      <mj-section>
+        <mj-column width="90%">
+          <mj-text
+            font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+            line-height="24px"
+            color="#333333"
+            font-size="16px"
+          >
+            <h1 style="font-size: 18px">Meme of the month</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="/img/hotjarinsta.png" alt="" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column width="95%">
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+        >
+          <p>See you next month!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image
+          src="/img/lady.png"
+          alt=""
+          height="70px"
+          width="70px"
+          align="left"
+        />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text
+          font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+          line-height="24px"
+          color="#333333"
+          font-size="16px"
+          align="left"
+        >
+          <strong>Nicole</strong> from
+          <mark style="background-color: #fde293">Hotjar</mark>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Meme Section -->
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-divider border-width="1px" border-color="#cccccc" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-include path="./components/nextRead.mjml" />
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-divider border-width="1px" border-color="#cccccc" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

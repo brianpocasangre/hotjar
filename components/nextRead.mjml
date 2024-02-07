@@ -1,0 +1,42 @@
+<mj-raw>
+  <!-- Next Read Section -->
+</mj-raw>
+<mj-section>
+  <mj-column width="90%">
+    <mj-text
+      font-family="roboto,'helvetica neue',helvetica,arial,sans-serif;"
+      line-height="24px"
+      color="#333333"
+      font-size="16px"
+    >
+      <h1 style="font-size: 24px">Your next good read 📚</h1>
+
+      <p>
+        <a href=""
+          >10 ways <mark style="background-color: #fde293">Hotjar</mark> helps
+          you optimize your website UX</a
+        ><br />
+        Learn how to quickly and easily identify UX improvements your customers
+        will love with
+        <mark style="background-color: #fde293">Hotjar’s</mark> suite of tools.
+      </p>
+
+      <p>
+        <a href="">How to improve UX to ramp up your website conversions</a
+        ><br />
+        Discover the link between UX and conversion rate optimization (CRO)—and
+        enhance both at the same time.
+      </p>
+
+      <p>
+        <a href="">Live training: building systems for UX improvements</a><br />
+        Level up your UX improvement system and create more efficient, impactful
+        processes with this
+        <mark style="background-color: #fde293">Hotjar </mark>training session.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!-- Next Read Section -->
+</mj-raw>
